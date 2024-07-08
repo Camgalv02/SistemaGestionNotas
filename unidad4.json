@@ -1,0 +1,109 @@
+{
+    "alumnos": [
+        {
+            "nombre": "Caceres Ramon Antonio",
+            "diagrama1": "1",
+            "diagrama2": "1",
+            "diagrama3": "1",
+            "trabajoUnidad2": "1"
+        },
+        {
+            "nombre": "Canteros Brisa Abril",
+            "diagrama1": "9",
+            "diagrama2": "8",
+            "diagrama3": "9",
+            "trabajoUnidad2": "9"
+        },
+        {
+            "nombre": "Carreras Jeremias Sebastian",
+            "diagrama1": "9",
+            "diagrama2": "9",
+            "diagrama3": "9",
+            "trabajoUnidad2": "8"
+        },
+        {
+            "nombre": "Fleita Diego Rafael",
+            "diagrama1": "1",
+            "diagrama2": "1",
+            "diagrama3": "1",
+            "trabajoUnidad2": "5"
+        },
+        {
+            "nombre": "Florentin Evelin Elizabeth",
+            "diagrama1": "9",
+            "diagrama2": "9",
+            "diagrama3": "8",
+            "trabajoUnidad2": "8"
+        },
+        {
+            "nombre": "Gauna Aranda Denis Martin",
+            "diagrama1": "8",
+            "diagrama2": "8",
+            "diagrama3": "8",
+            "trabajoUnidad2": "5"
+        },
+        {
+            "nombre": "Gonzalez Barbara Teresita",
+            "diagrama1": "9",
+            "diagrama2": "9",
+            "diagrama3": "8",
+            "trabajoUnidad2": "8"
+        },
+        {
+            "nombre": "Lauritto Danisa Amelí",
+            "diagrama1": "9",
+            "diagrama2": "9",
+            "diagrama3": "9",
+            "trabajoUnidad2": "8"
+        },
+        {
+            "nombre": "Lopez Alejandra",
+            "diagrama1": "9",
+            "diagrama2": "8",
+            "diagrama3": "8",
+            "trabajoUnidad2": "9"
+        },
+        {
+            "nombre": "Moreyra Maria Sol",
+            "diagrama1": "9",
+            "diagrama2": "9",
+            "diagrama3": "8.5",
+            "trabajoUnidad2": "8"
+        },
+        {
+            "nombre": "Oviedo Rocio Belén",
+            "diagrama1": "8",
+            "diagrama2": "9",
+            "diagrama3": "9",
+            "trabajoUnidad2": "9"
+        },
+        {
+            "nombre": "Pereyra Sebastián Edgardo",
+            "diagrama1": "8",
+            "diagrama2": "8",
+            "diagrama3": "8",
+            "trabajoUnidad2": "5"
+        },
+        {
+            "nombre": "Ramirez Franco Ramón",
+            "diagrama1": "7",
+            "diagrama2": "8",
+            "diagrama3": "7",
+            "trabajoUnidad2": "5"
+        },
+        {
+            "nombre": "Saucedo Candela Abigail",
+            "diagrama1": "9",
+            "diagrama2": "9",
+            "diagrama3": "9",
+            "trabajoUnidad2": "8"
+        },
+        {
+            "nombre": "Zabala Wanda Naomi",
+            "diagrama1": "9",
+            "diagrama2": "8",
+            "diagrama3": "8",
+            "trabajoUnidad2": "9"
+        }
+    ]
+}

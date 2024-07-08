@@ -1,0 +1,170 @@
+{
+    "alumnos": [
+      {
+        "nombre": "Caceres Ramon Antonio",
+        "unidad1": 9,
+        "unidad2": 1,
+        "unidad3": 7.5,
+        "unidad4": 1,
+        "carpeta": 8,
+        "promedio": 5.3,
+        "faltas": 13,
+        "resultado": "NO Aprobado"
+      },
+      {
+        "nombre": "Canteros Brisa Abril",
+        "unidad1": 9,
+        "unidad2": 8.5,
+        "unidad3": 9.5,
+        "unidad4": 8.75,
+        "carpeta": 9,
+        "promedio": 8.95,
+        "faltas": 5,
+        "resultado": "Aprobado"
+      },
+      {
+        "nombre": "Carreras Jeremias Sebastian",
+        "unidad1": 8,
+        "unidad2": 9.25,
+        "unidad3": 7.5,
+        "unidad4": 8.75,
+        "carpeta": 9,
+        "promedio": 8.5,
+        "faltas": 4,
+        "resultado": "Aprobado"
+      },
+      {
+        "nombre": "Fleita Diego Rafael",
+        "unidad1": 8,
+        "unidad2": 7.5,
+        "unidad3": 9.5,
+        "unidad4": 2,
+        "carpeta": 1,
+        "promedio": 5.6,
+        "faltas": 8,
+        "resultado": "NO Aprobado"
+      },
+      {
+        "nombre": "Florentin Evelin Elizabeth",
+        "unidad1": 9,
+        "unidad2": 9.25,
+        "unidad3": 7.5,
+        "unidad4": 8.5,
+        "carpeta": 9,
+        "promedio": 8.65,
+        "faltas": 2,
+        "resultado": "Aprobado"
+      },
+      {
+        "nombre": "Gauna Aranda Denis Martin",
+        "unidad1": 9,
+        "unidad2": 7.5,
+        "unidad3": 9.5,
+        "unidad4": 7.25,
+        "carpeta": 1,
+        "promedio": 6.85,
+        "faltas": 5,
+        "resultado": "NO Aprobado"
+      },
+      {
+        "nombre": "Gonzalez Barbara Teresita",
+        "unidad1": 9,
+        "unidad2": 9.25,
+        "unidad3": 7.5,
+        "unidad4": 8.5,
+        "carpeta": 9,
+        "promedio": 8.65,
+        "faltas": 4,
+        "resultado": "Aprobado"
+      },
+      {
+        "nombre": "Lauritto Danisa Amelí",
+        "unidad1": 9,
+        "unidad2": 9.25,
+        "unidad3": 7.5,
+        "unidad4": 8.75,
+        "carpeta": 9,
+        "promedio": 8.7,
+        "faltas": 5,
+        "resultado": "Aprobado"
+      },
+      {
+        "nombre": "Lopez Alejandra",
+        "unidad1": 9,
+        "unidad2": 8.5,
+        "unidad3": 9.5,
+        "unidad4": 8.5,
+        "carpeta": 9,
+        "promedio": 8.9,
+        "faltas": 3,
+        "resultado": "Aprobado"
+      },
+      {
+        "nombre": "Moreyra Maria Sol",
+        "unidad1": 7,
+        "unidad2": 7.5,
+        "unidad3": 9.5,
+        "unidad4": 8.625,
+        "carpeta": 9,
+        "promedio": 8.325,
+        "faltas": 5,
+        "resultado": "Aprobado"
+      },
+      {
+        "nombre": "Oviedo Rocio Belén",
+        "unidad1": 9,
+        "unidad2": 8.5,
+        "unidad3": 9.5,
+        "unidad4": 8.75,
+        "carpeta": 9,
+        "promedio": 8.95,
+        "faltas": 5,
+        "resultado": "Aprobado"
+      },
+      {
+        "nombre": "Pereyra Sebastián Edgardo",
+        "unidad1": 1,
+        "unidad2": 1,
+        "unidad3": 7.5,
+        "unidad4": 7.25,
+        "carpeta": 7,
+        "promedio": 4.75,
+        "faltas": 8,
+        "resultado": "NO Aprobado"
+      },
+      {
+        "nombre": "Ramirez Franco Ramón",
+        "unidad1": 9,
+        "unidad2": 7.5,
+        "unidad3": 9.5,
+        "unidad4": 6.75,
+        "carpeta": 8,
+        "promedio": 8.15,
+        "faltas": 4,
+        "resultado": "Aprobado"
+      },
+      {
+        "nombre": "Saucedo Candela Abigail",
+        "unidad1": 9,
+        "unidad2": 7.5,
+        "unidad3": 9.5,
+        "unidad4": 8.75,
+        "carpeta": 9,
+        "promedio": 8.75,
+        "faltas": 4,
+        "resultado": "Aprobado"
+      },
+      {
+        "nombre": "Zabala Wanda Naomi",
+        "unidad1": 9,
+        "unidad2": 8.5,
+        "unidad3": 7.5,
+        "unidad4": 8.5,
+        "carpeta": 9,
+        "promedio": 8.5,
+        "faltas": 2,
+        "resultado": "Aprobado"
+      }
+    ]
+  }
+  
